@@ -1,7 +1,7 @@
 {
 	"setting": {
-		"core": "Core",
-		"plugin": "Plugin",
+		"core": "核心功能设置",
+		"plugin": "插件功能设置",
 		"folder-path-example-placeholder": "Example: folder 1/folder 2",
 		"file-path-example-placeholder": "Example: folder/note",
 		"editor": {
