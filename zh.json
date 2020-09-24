@@ -184,7 +184,7 @@
 		"drag-to-rearrange": "拖动以调整布局",
 		"msg-switched-to-preview": "切换默认视图为预览模式。",
 		"msg-switched-to-edit": "切换默认视图为编辑模式。",
-		"msg-upgrade-installer": "若要使用此功能，请使用我们网站上提供的最新安装程序来重新安装 Obsidian。",
+		"msg-upgrade-installer": "若要使用此功能，请到我们的网站上下载并安装 Obsidian 的最新版本。",
 		"tooltip-restore-default-settings": "恢复默认设置",
 		"empty-state": {
 			"no-file-open": "未打开文件",
