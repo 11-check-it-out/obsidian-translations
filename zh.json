@@ -902,8 +902,8 @@
 		"link-with-count_plural": "{{count}} 个链接",
 		"file-with-count": "{{count}} 个文件",
 		"file-with-count_plural": "{{count}} 个文件",
-		"folder-with-count": "{{count}} 文件夹",
-		"folder-with-count_plural": "{{count}} 文件夹",
+		"folder-with-count": "{{count}} 个文件夹",
+		"folder-with-count_plural": "{{count}} 个文件夹",
 		"backlink-with-count": "{{count}} 个反向链接",
 		"backlink-with-count_plural": "{{count}} 个反向链接"
 	}
