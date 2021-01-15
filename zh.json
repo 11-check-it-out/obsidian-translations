@@ -72,7 +72,7 @@
 			"option-choice-absolute-path": "插入基于库的绝对路径",
 			"option-new-attachment-location": "新附件的默认位置",
 			"option-new-attachment-location-description": "设置新添加附件的存放位置",
-			"option-choice-subdirectory": "附件放置在当前文件夹下的子文件夹中",
+			"option-choice-subdirectory": "当前文件夹下指定的子文件夹中",
 			"option-attachment-folder-path": "附件文件夹路径",
 			"option-attachment-folder-path-description": "指定用于存放附件的文件夹。新建的附件会存放于此，如音频记录或通过拖放或粘贴创建的图像等。",
 			"option-attachment-subfolder-path": "子文件夹名称",
