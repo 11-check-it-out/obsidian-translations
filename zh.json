@@ -1006,7 +1006,7 @@
 			"label-no-unlinked-mentions": "没有笔记提到当前文件名",
 			"ellipsis": "……",
 			"option-backlink-in-document": "在页面中显示反向链接",
-			"option-backlink-in-document-desc": "在面板底部显示当前页面的反向链接。"
+			"option-backlink-in-document-desc": "打开新面板时，默认在面板底部显示当前页面的反向链接。"
 		},
 		"outgoing-links": {
 			"name": "出链",
