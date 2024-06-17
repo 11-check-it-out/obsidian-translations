@@ -1,6 +1,6 @@
 {
 	"setting": {
-		"options": "选项",
+		"options": "通用选项",
 		"plugin": "插件",
 		"builtin-plugins": "核心插件",
 		"plugin-options": "插件选项",
@@ -259,9 +259,9 @@
 			"option-hw-acceleration": "硬件加速",
 			"option-hw-acceleration-description": "开启硬件加速，即使用 GPU 让 Obsidian 运行更流畅。",
 			"option-hw-acceleration-warning": "如果关闭此选项，Obsidian 的性能将严重下降。",
-			"option-config-location": "切换配置文件夹",
-			"option-config-location-description": "选用另一个配置文件夹而非默认配置文件夹。配置文件夹名称一定要以句点\".\"开头。",
-			"option-config-location-warning": "配置文件夹路径必须是合法的，并且以句点\".\"开头。",
+			"option-config-location": "切换设置文件夹",
+			"option-config-location-description": "选用另一个设置文件夹而非默认设置文件夹。设置文件夹名称一定要以句点\".\"开头。",
+			"option-config-location-warning": "设置文件夹路径必须是合法的，并且以句点\".\"开头。",
 			"label-license": "许可证",
 			"label-your-commercial-license-key": "你的商用许可证是 \"{{key}}\"。",
 			"label-commercial-license-info": "注册给用户： \"{{company}}\" - {{seats}} 。有效期至 {{expiry}}。",
